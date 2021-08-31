@@ -16,4 +16,4 @@ In the below image is encrypted image. It look like broken file because we are n
 
 You can see the decrypted image below.
 
-<img src="/resources/image_out.bmp.bmp?raw=true"/>
+<img src="/resources/image_out.bmp?raw=true"/>
